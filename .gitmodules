@@ -1,0 +1,33 @@
+[submodule "Module-1"]
+	path = Module-1
+	url = https://github.com/C0rtex5/Module-1.git
+[submodule "Module-10"]
+	path = Module-10
+	url = https://github.com/C0rtex5/Module-10.git
+[submodule "Module-11"]
+	path = Module-11
+	url = https://github.com/C0rtex5/Module-11.git
+[submodule "Module-2"]
+	path = Module-2
+	url = https://github.com/C0rtex5/Module-2.git
+[submodule "Module-3"]
+	path = Module-3
+	url = https://github.com/C0rtex5/Module-3.git
+[submodule "Module-4"]
+	path = Module-4
+	url = https://github.com/C0rtex5/Module-4.git
+[submodule "Module-5"]
+	path = Module-5
+	url = https://github.com/C0rtex5/Module-5.git
+[submodule "Module-7"]
+	path = Module-7
+	url = https://github.com/C0rtex5/Module-7.git
+[submodule "Module-8"]
+	path = Module-8
+	url = https://github.com/C0rtex5/Module-8.git
+[submodule "Module-9"]
+	path = Module-9
+	url = https://github.com/C0rtex5/Module-9.git
+[submodule "Module-6"]
+	path = Module-6
+	url = https://github.com/C0rtex5/Module-6.git
